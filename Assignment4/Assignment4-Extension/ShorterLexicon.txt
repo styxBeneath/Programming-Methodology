@@ -1,0 +1,53 @@
+ABSTRACT_existing in thought or as an idea 
+AMBASSADOR_a diplomat sent as representative in a foreign country
+ARBITRARY_based on random choice or personal whim
+BESTOWAL_the act of conferring an honor or presenting a gift
+BRUSHY_covered in or consisting of brushwood
+BUOY_an anchored float serving as a navigation mark
+CAPITULATE_cease to resist an opponent or an unwelcome demand
+CHANCERY_a court of law that decides legal cases
+CHIEF_a leader or ruler of a people or clan
+CLUE_a piece of evidence or information
+COFACTOR_a contributory cause of a disease
+COLLEAGUE_a person with whom one works in a profession
+CONNOISSEUR_an expert judge in matters of taste
+CONVOLUTE_make a story complex and difficult to follow
+DECEITFUL_deceiving or misleading others
+DEHYDRATE_cause a person to lose a large amount of water
+DISPEL_make (a doubt, feeling, or belief) disappear
+DOWNCAST_(of a person's eyes) looking downwards
+ELEGIAC_wistfully mournful
+FATTY_containing a large amount of fat
+FLICK_a sudden quick movement
+FOYER_an entrance hall or other open area in a building
+GLEAN_obtain (information) from various sources
+GUSH_flow out of something in a rapid stream
+HUBBUB_a chaotic din caused by a crowd of people
+IDIOT_a stupid person
+IMP_a small, mischievous devil or sprite	
+JAUNTY_having or expressing a lively manner
+KEYHOLE_a hole in a lock into which the key is inserted
+LOFT_a space directly under the roof of a house
+MESSY_untidy or dirty
+MILORD_used to address or refer to an English nobleman
+NADIR_the lowest or most unsuccessful point in a situation
+NEON_ an inert gaseous element of the noble gas group
+OBSESS_fill the mind of (someone) continually
+OCULAR_of or connected with the eyes or vision
+POMP_ceremony and splendid display
+PROSODY_the patterns of rhythm and sound used in poetry
+QUAGMIRE_a soft boggy area of land that gives way underfoot
+QUIET_making little or no noise
+RELIC_an object surviving from an earlier time
+RIVAL_a person or thing that equals another in quality
+SCALD_injure with very hot liquid or steam
+SLITHER_move smoothly over a surface
+SONIC_relating to, or of the nature of sound waves
+SPHERIC_shaped like a sphere
+SUCCUMB_fail to resist negative force
+THEREIN_in that place, document, or respect
+TROUGH_a narrow open container for animals to eat out of
+WARE_pottery, typically that of a specified type
+WOODY_(of an area of land) covered with trees
+YOURSELF_used to emphasize the person being addressed
+ZIRCON_a mineral occurring as prismatic crystals
